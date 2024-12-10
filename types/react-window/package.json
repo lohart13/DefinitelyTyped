@@ -7,7 +7,7 @@
         "http://react-window.now.sh"
     ],
     "dependencies": {
-        "@types/react": "*"
+        "@types/react": "^18.x"
     },
     "devDependencies": {
         "@types/react-window": "workspace:."
