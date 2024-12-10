@@ -7,8 +7,8 @@
         "https://relay.dev"
     ],
     "dependencies": {
-        "@types/react": "*",
-        "@types/relay-runtime": "*"
+        "@types/react": "^18.x",
+        "@types/relay-runtime": "^18.x"
     },
     "devDependencies": {
         "@types/react-relay": "workspace:."
